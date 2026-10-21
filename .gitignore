@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+
+config/database.php
+
+.DS_Store
+Thumbs.db
+
+cek_koneksi.php
