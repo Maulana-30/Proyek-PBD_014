@@ -112,7 +112,7 @@ Proyek-PBD_014-main/
 
 *Catatan: daftar di atas merangkum file-file utama aplikasi. File SQL merupakan ekspor database yang disertakan dalam proyek.*
 
-## ⚙️ Persyaratan Sistem
+## Persyaratan Sistem
 
 Sebelum menjalankan aplikasi, pastikan perangkat telah memiliki:
 
