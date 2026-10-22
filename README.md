@@ -122,7 +122,7 @@ Sebelum menjalankan aplikasi, pastikan perangkat telah memiliki:
 - Browser web.
 - Visual Studio Code (opsional, untuk mengedit kode sumber).
 
-## 🚀 Cara Instalasi dan Menjalankan Aplikasi
+## Cara Instalasi dan Menjalankan Aplikasi
 
 ### 1. Unduh Repository
 
@@ -223,7 +223,7 @@ http://localhost/Proyek-PBD_014/cek_koneksi.php
 
 Pastikan nama folder pada URL sesuai dengan nama folder proyek di `htdocs`.
 
-## 🗄️ Basis Data
+## Basis Data
 
 Aplikasi menggunakan database `sistem_pengelolaan_barang` untuk menyimpan data operasional toko.
 
